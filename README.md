@@ -16,7 +16,7 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 
 Você pode instalar as dependências usando pip:
 
-```bash
+## bash
 pip install fpdf
 
 Clone este repositório:
