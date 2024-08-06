@@ -19,13 +19,13 @@ Você pode instalar as dependências usando pip:
 ## bash
 pip install fpdf
 
-Clone este repositório:
+## Clone este repositório:
 git clone https://github.com/Lopeswaprojetos/gerador-orcamentos-python.git
 
-Navegue até o diretório do projeto:
+## Navegue até o diretório do projeto:
 cd gerador-orcamentos-python
 
-Execute o script etiquetas.py:
+## Execute o script etiquetas.py:
 python etiquetas.py
 
 O script solicitará as seguintes informações:
