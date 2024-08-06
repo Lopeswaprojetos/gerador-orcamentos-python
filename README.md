@@ -30,12 +30,12 @@ python etiquetas.py
 
 O script solicitará as seguintes informações:
 
-Descrição do projeto
+## Descrição do projeto
 Prazo estimado (em horas)
 Valor da hora (em reais)
 Prazo (em meses)
 
-O orçamento será gerado em um arquivo PDF chamado orcamento.pdf.
+**O orçamento será gerado em um arquivo PDF chamado orcamento.pdf.**
 
-Contribuições
+## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, por favor, envie um pull request ou abra uma issue.
